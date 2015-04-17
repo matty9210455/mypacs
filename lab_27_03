@@ -1,0 +1,11 @@
+andare su sito gnu e scaricare gnu m4
+dopo comando & mi fa USARE PROMPT E COMANDI
+SE DIM CTRL+z
+bg
+./configure
+make
+make check
+config.log debug
+configure --prefix=$HOME/usr 
+TutoriaL
+Tutorial
