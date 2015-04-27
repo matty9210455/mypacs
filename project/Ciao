@@ -1,0 +1,4 @@
+hellomake: hellomake.cpp hellofunc.c
+	gcc -c hellofunc.c -I.
+	g++ -c hellomake.cpp -I.
+	g++ -o hellomake hellomake.o hellofunc.o
