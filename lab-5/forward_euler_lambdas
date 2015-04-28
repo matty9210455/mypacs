@@ -1,8 +1,0 @@
-#include <iostream>
-
-class forward_euler{
-	void apply(){
-		std::vector<double> result;
-		std::vector<double> time;
-		
-		
